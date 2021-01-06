@@ -8,8 +8,11 @@ data
 *.idea
 
 bin/
-dataset/
 result/
 model/
+models/
 logs/
 .dfc/
+
+requirements - old
+virtual/
