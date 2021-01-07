@@ -1,7 +1,6 @@
 testdata
 data
 
-*.midi
 *.MID
 *.pickle
 *__pycache__
